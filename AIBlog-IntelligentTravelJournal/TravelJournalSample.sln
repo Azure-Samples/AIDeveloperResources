@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntelligentTravelJournal", "IntelligentTravelJournal\IntelligentTravelJournal.csproj", "{B4B86012-3A0E-4897-902D-AE047707C4ED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BatchTranscribedClient", "BatchTranscribedClient\BatchTranscribedClient.csproj", "{0C45CA96-2009-40B6-AADF-864D27FDD047}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FotoFlyPorted", "FotoFlyPorted\FotoFlyPorted.csproj", "{BF38E604-C451-4033-9AD9-2640D9FA05C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JournalHelper", "JournalHelper\JournalHelper.csproj", "{8EA1C1CA-9F59-45B5-AD8C-BF1CCF161AD4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DD97A15E-237A-4B72-BEE7-88006DF42D24}"
+	ProjectSection(SolutionItems) = preProject
+		KNOWN ISSUES IN TRAVEL JOURNAL APP.docx = KNOWN ISSUES IN TRAVEL JOURNAL APP.docx
+		Objectives.docx = Objectives.docx
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4B86012-3A0E-4897-902D-AE047707C4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B86012-3A0E-4897-902D-AE047707C4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B86012-3A0E-4897-902D-AE047707C4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B86012-3A0E-4897-902D-AE047707C4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C45CA96-2009-40B6-AADF-864D27FDD047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C45CA96-2009-40B6-AADF-864D27FDD047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C45CA96-2009-40B6-AADF-864D27FDD047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C45CA96-2009-40B6-AADF-864D27FDD047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF38E604-C451-4033-9AD9-2640D9FA05C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF38E604-C451-4033-9AD9-2640D9FA05C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF38E604-C451-4033-9AD9-2640D9FA05C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF38E604-C451-4033-9AD9-2640D9FA05C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EA1C1CA-9F59-45B5-AD8C-BF1CCF161AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA1C1CA-9F59-45B5-AD8C-BF1CCF161AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA1C1CA-9F59-45B5-AD8C-BF1CCF161AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA1C1CA-9F59-45B5-AD8C-BF1CCF161AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36ED7191-31C3-4A6D-BCC8-D19581AA35DF}
+	EndGlobalSection
+EndGlobal

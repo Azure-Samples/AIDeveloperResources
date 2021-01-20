@@ -1,0 +1,10 @@
+﻿
+
+Speech SDK Samples
+https://github.com/Azure-Samples/cognitive-services-speech-sdk
+
+Batch client is converted to a class library
+https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/samples/batch/csharp/batchclient
+
+Speech Recognizer
+https://docs.microsoft.com/en-us/dotnet/api/microsoft.cognitiveservices.speech.speechrecognizer?view=azure-dotnet

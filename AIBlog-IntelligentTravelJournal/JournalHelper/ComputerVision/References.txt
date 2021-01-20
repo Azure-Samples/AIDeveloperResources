@@ -1,0 +1,9 @@
+﻿Documentation
+https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/
+
+Client LIbrary
+https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/quickstarts-sdk/client-library?tabs=visual-studio&pivots=programming-language-csharp
+
+Samole Code Links
+https://github.com/Azure-Samples/cognitive-services-quickstart-code/blob/master/dotnet/ComputerVision/ComputerVisionQuickstart.cs
+

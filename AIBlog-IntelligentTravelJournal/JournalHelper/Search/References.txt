@@ -1,0 +1,28 @@
+﻿Documentation
+https://docs.microsoft.com/en-us/azure/search/
+
+Search Client 11 - client library - using Azure.Search.Documents
+https://docs.microsoft.com/en-us/dotnet/api/overview/azure/search.documents-readme
+
+
+using multiple data sources for index
+https://docs.microsoft.com/en-us/azure/search/tutorial-multiple-data-sources
+
+Main refernece sample
+https://docs.microsoft.com/en-us/azure/search/cognitive-search-tutorial-blob-dotnet
+
+
+Other Sample references
+https://github.com/Azure/azure-sdk-for-net/tree/master/sdk/search/Azure.Search.Documents
+https://github.com/Azure-Samples/azure-search-dotnet-samples
+
+
+NOTES:
+The search functions implementation is not clean and extensive.
+For example fieldMappings and index fields etc are only partial implementation.
+
+
+
+
+
+https://github.com/Azure/azure-sdk-for-net/tree/master/sdk/search/Azure.Search.Documents#searchoptions

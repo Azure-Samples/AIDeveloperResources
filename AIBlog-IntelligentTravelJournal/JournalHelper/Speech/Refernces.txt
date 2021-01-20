@@ -1,0 +1,20 @@
+﻿
+
+Speech Documentation
+https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/index-speech-to-text
+
+Batch Transcription
+https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/batch-transcription
+
+Speech SDK Samples
+https://github.com/Azure-Samples/cognitive-services-speech-sdk
+
+Batch client is converted to a class library
+https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/samples/batch/csharp/batchclient
+
+Speech Recognizer
+https://docs.microsoft.com/en-us/dotnet/api/microsoft.cognitiveservices.speech.speechrecognizer?view=azure-dotnet
+
+
+Speech translation
+https://github.com/Azure-Samples/cognitive-services-speech-sdk/blob/master/quickstart/csharp/dotnet/translate-speech-to-text/helloworld/Program.cs
