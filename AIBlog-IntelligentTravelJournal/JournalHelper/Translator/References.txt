@@ -1,9 +1,0 @@
-﻿
-Translator V3.0 documentation
-https://docs.microsoft.com/azure/cognitive-services/translator/reference/v3-0-translate
-
-Complete Sample
-https://github.com/MicrosoftTranslator/Text-Translation-API-V3-C-Sharp
-
-Translate
-https://github.com/MicrosoftTranslator/Text-Translation-API-V3-C-Sharp/blob/master/Translate.cs
