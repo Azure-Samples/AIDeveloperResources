@@ -1,0 +1,7 @@
+﻿
+Text Analytics documentation
+https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/
+
+Text Analytics Client Library
+https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/quickstarts/text-analytics-sdk?tabs=version-3-1&pivots=programming-language-csharp
+https://github.com/Azure/azure-sdk-for-net/blob/master/sdk/textanalytics/Azure.AI.TextAnalytics/README.md

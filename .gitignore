@@ -12,6 +12,7 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+./AIBlog-IntelligentTravelJournal/IntelligentTravelJournal/AppCustomSettings.json
 
 # Mono auto generated files
 mono_crash.*
