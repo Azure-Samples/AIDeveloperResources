@@ -6,5 +6,5 @@ NOTES:
 This is ported to .NET core 3.0
 BingMapResolver.cs has issues, so excluded it from project and commented corresponding code
 
-Alternatively one can [Add metadata to image blobs](https://docs.microsoft.com/azure/cognitive-services/computer-vision/tutorials/storage-lab-tutorial?WT.mc_id=aiml-0000-ayyonet)
-[Store Application Data with Azure Storage](https://docs.microsoft.com/learn/modules/store-app-data-with-azure-blob-storage/?WT.mc_id=aiml-0000-ayyonet)
+Alternatively one can [Add metadata to image blobs](https://docs.microsoft.com/azure/cognitive-services/computer-vision/tutorials/storage-lab-tutorial?WT.mc_id=aiml-13155-ayyonet)
+[Store Application Data with Azure Storage](https://docs.microsoft.com/learn/modules/store-app-data-with-azure-blob-storage/?WT.mc_id=aiml-13155-ayyonet)
