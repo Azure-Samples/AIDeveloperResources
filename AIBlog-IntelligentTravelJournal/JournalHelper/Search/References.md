@@ -1,4 +1,4 @@
-﻿-   [Azure Search Documentation](https://docs.microsoft.com/azure/search/?WT.mc_id=aiml-13155-ayyonet)
+﻿-  [Azure Search Documentation](https://docs.microsoft.com/azure/search/?WT.mc_id=aiml-13155-ayyonet)
 -   [Search Client 11 - client library - using Azure.Search.Documents](https://docs.microsoft.com/dotnet/api/overview/azure/search.documents-readme?WT.mc_id=aiml-13155-ayyonet)
 -   [Tutorial: Index from multiple data sources using the .NET SDK](https://docs.microsoft.com/azure/search/tutorial-multiple-data-sources?WT.mc_id=aiml-13155-ayyonet)
 -   [Tutorial: AI-generated searchable content from Azure blobs using the .NET SDK](https://docs.microsoft.com/azure/search/cognitive-search-tutorial-blob-dotnet?WT.mc_id=aiml-13155-ayyonet)
