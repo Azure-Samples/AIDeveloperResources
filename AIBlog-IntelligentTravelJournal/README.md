@@ -72,6 +72,10 @@ Storing the groupname and subscriptionId info so its useful in cleanup, as neede
 -   [Speech Recognizer API](https://docs.microsoft.com/dotnet/api/microsoft.cognitiveservices.speech.speechrecognizer?view=azure-dotnet&WT.mc_id=aiml-13155-ayyonet)
     https://docs.microsoft.com/en-us/dotnet/api/microsoft.cognitiveservices.speech.speechrecognizer?view=azure-dotnet
 -   [Speech translation code sample](https://github.com/Azure-Samples/cognitive-services-speech-sdk/blob/master/quickstart/csharp/dotnet/translate-speech-to-text/helloworld/Program.cs?WT.mc_id=aiml-13155-ayyonet)
+
+-   [Dowload FotoFly link (.zip file)](http://www.java2s.com/Open-Source/CSharp_Free_Code/Windows_Presentation_Foundation_Library/Download_Fotofly_Photo_Metadata_Library.htm) is at the end of the page.
+-   [Add metadata to image blobs](https://docs.microsoft.com/azure/cognitive-services/computer-vision/tutorials/storage-lab-tutorial?WT.mc_id=aiml-13155-ayyonet)
+-   [Store Application Data with Azure Storage](https://docs.microsoft.com/learn/modules/store-app-data-with-azure-blob-storage/?WT.mc_id=aiml-13155-ayyonet)
 -   [Computer Vision Documentation](https://docs.microsoft.com/azure/cognitive-services/computer-vision/?WT.mc_id=aiml-13155-ayyonet)
 -   [Quickstart: Use Computer Vision Client LIbrary](https://docs.microsoft.com/azure/cognitive-services/computer-vision/quickstarts-sdk/client-library?tabs=visual-studio&pivots=programming-language-csharp&WT.mc_id=aiml-13155-ayyonet)
 -   [Quickstart Sample Code](https://github.com/Azure-Samples/cognitive-services-quickstart-code/blob/master/dotnet/ComputerVision/ComputerVisionQuickstart.cs?WT.mc_id=aiml-13155-ayyonet)
