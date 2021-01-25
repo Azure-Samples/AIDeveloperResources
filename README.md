@@ -7,6 +7,9 @@ AI Developer Resources is a collection of code samples and resource links.
 You can find the following code samples on the links below. Check out the demo folder Readme file for more instructions on how to setup the projects and related documentation links.
 
 -   [AI Blog Intelligent Travel Journey](./AIBlog-IntelligentTravelJournal)
+
+[![Intelligent Travel Journal App](./Assets/Images/IntelligentTravelJournal.jpg)
+
 <!-- -   Feature 2
 -   ... -->
 
@@ -28,6 +31,7 @@ You can find the following code samples on the links below. Check out the demo f
 -   mvn install
 -   ...
 
+
 ### Quickstart
 
 (Add steps to get up and running quickly)
@@ -48,7 +52,7 @@ To run the demo, follow these steps:
 2.
 3. -->
 
-## Cognitive Services Resources
+## Resources
 
 ### Speech
 
@@ -66,11 +70,7 @@ To run the demo, follow these steps:
 
 ### Computer Vision
 
-<<<<<<< HEAD
--   [Computer Vision Documentation](https://docs.microsoft.com/azure/cognitive-services/computer-vision/?WT.mc_id=aiml-13155-ayyonet)
-=======
 -  [Computer Vision Documentation](https://docs.microsoft.com/azure/cognitive-services/computer-vision/?WT.mc_id=aiml-13155-ayyonet)
->>>>>>> 14c5e976978b8fafff35cd2dd8787e8e2eb6aab7
 -   [Add metadata to image blobs](https://docs.microsoft.com/azure/cognitive-services/computer-vision/tutorials/storage-lab-tutorial?WT.mc_id=aiml-13155-ayyonet)
 -   [Computer Vision Documentation](https://docs.microsoft.com/azure/cognitive-services/computer-vision/?WT.mc_id=aiml-13155-ayyonet)
 -   [Quickstart: Use Computer Vision Client LIbrary](https://docs.microsoft.com/azure/cognitive-services/computer-vision/quickstarts-sdk/client-library?tabs=visual-studio&pivots=programming-language-csharp&WT.mc_id=aiml-13155-ayyonet)
@@ -90,8 +90,5 @@ To run the demo, follow these steps:
 ### Azure Storage
 
 -   [Azure Storage Documentation](https://docs.microsoft.com/azure/storage/?WT.mc_id=aiml-13155-ayyonet)
-<<<<<<< HEAD
 -   [Azure Managed Databases Overview](https://azure.microsoft.com/solutions/databases/?WT.mc_id=aiml-13155-ayyonet)
-=======
->>>>>>> 14c5e976978b8fafff35cd2dd8787e8e2eb6aab7
 -   [Store Application Data with Azure Storage](https://docs.microsoft.com/learn/modules/store-app-data-with-azure-blob-storage/?WT.mc_id=aiml-13155-ayyonet)

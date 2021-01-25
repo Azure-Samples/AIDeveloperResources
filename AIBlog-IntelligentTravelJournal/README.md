@@ -4,6 +4,8 @@
 
 ## Getting Started
 
+[![Intelligent Travel Journal App](./Assets/Images/IntelligentTravelJournal.jpg)
+
 ### Prerequisites
 
 To run this code, you will need:
