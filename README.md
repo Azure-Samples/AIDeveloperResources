@@ -6,7 +6,7 @@ AI Developer Resources is a collection of code samples and resource links.
 
 You can find the following code samples on the links below. Check out the demo folder Readme file for more instructions on how to setup the projects and related documentation links.
 
--   [AI Blog Intelligent Travel Journey](./AIBlog-IntelligentTravelJournal)
+-   [AI Blog Intelligent Travel Journey](./AIBlog-IntelligentTravelJournal) demo for blog post [aka.ms/onyourtermsblog2](https://techcommunity.microsoft.com/t5/azure-ai/bg-p/AzureAIBlog?WT.mc_id=aiml-131555-ayyonet). 
 
 ![Intelligent Travel Journal App](./Assets/Images/intelligentTravelJournal.jpg)
 
