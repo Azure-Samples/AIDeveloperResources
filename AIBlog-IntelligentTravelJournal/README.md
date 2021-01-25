@@ -1,6 +1,6 @@
 # Intelligent Travel
 
-[aka.ms/onyourtermsblog2](https://techcommunity.microsoft.com/t5/azure-ai/bg-p/AzureAIBlog?WT.mc_id=aiml-131555-ayyonet)
+Intelligent Travel Journey mobile app demo for blog post [aka.ms/onyourtermsblog2](https://techcommunity.microsoft.com/t5/azure-ai/bg-p/AzureAIBlog?WT.mc_id=aiml-131555-ayyonet). 
 
 ## Getting Started
 
