@@ -8,7 +8,7 @@ You can find the following code samples on the links below. Check out the demo f
 
 -   [AI Blog Intelligent Travel Journey](./AIBlog-IntelligentTravelJournal)
 
-[![Intelligent Travel Journal App](./Assets/Images/intelligentTravelJournal.jpg)
+![Intelligent Travel Journal App](./Assets/Images/intelligentTravelJournal.jpg)
 
 <!-- -   Feature 2
 -   ... -->
