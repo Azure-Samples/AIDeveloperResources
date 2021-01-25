@@ -52,7 +52,7 @@ To run the demo, follow these steps:
 2.
 3. -->
 
-## Resources
+## Cognitive Services Resources
 
 ### Speech
 
@@ -77,7 +77,7 @@ To run the demo, follow these steps:
 -   [Quickstart Sample Code](https://github.com/Azure-Samples/cognitive-services-quickstart-code/blob/master/dotnet/ComputerVision/ComputerVisionQuickstart.cs?WT.mc_id=aiml-13155-ayyonet)
 -   [Azure Search Documentation](https://docs.microsoft.com/azure/search/?WT.mc_id=aiml-13155-ayyonet)
 
-### Cognitive Search
+### Cognitive Search 
 
 -   [Cognitive Search Documentation](https://docs.microsoft.com/azure/search/?WT.mc_id=aiml-13155-ayyonet)
 -   [Search Client 11 - client library - using Azure.Search.Documents](https://docs.microsoft.com/dotnet/api/overview/azure/search.documents-readme?WT.mc_id=aiml-13155-ayyonet)
