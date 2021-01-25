@@ -6,7 +6,10 @@ AI Developer Resources is a collection of code samples and resource links.
 
 You can find the following code samples on the links below. Check out the demo folder Readme file for more instructions on how to setup the projects and related documentation links.
 
--   [AI Blog Intelligent Travel Journey](./AIBlog-IntelligentTravelJournal)
+-   [AI Blog Intelligent Travel Journey](./AIBlog-IntelligentTravelJournal) demo for blog post [aka.ms/onyourtermsblog2](https://techcommunity.microsoft.com/t5/azure-ai/bg-p/AzureAIBlog?WT.mc_id=aiml-131555-ayyonet). 
+
+![Intelligent Travel Journal App](./Assets/Images/intelligentTravelJournal.jpg)
+
 <!-- -   Feature 2
 -   ... -->
 
@@ -27,6 +30,7 @@ You can find the following code samples on the links below. Check out the demo f
 -   npm install [package name]
 -   mvn install
 -   ...
+
 
 ### Quickstart
 
@@ -64,7 +68,6 @@ To run the demo, follow these steps:
     https://docs.microsoft.com/en-us/dotnet/api/microsoft.cognitiveservices.speech.speechrecognizer?view=azure-dotnet
 -   [Speech translation code sample](https://github.com/Azure-Samples/cognitive-services-speech-sdk/blob/master/quickstart/csharp/dotnet/translate-speech-to-text/helloworld/Program.cs?WT.mc_id=aiml-13155-ayyonet)
 
-
 ### Computer Vision
 
 -  [Computer Vision Documentation](https://docs.microsoft.com/azure/cognitive-services/computer-vision/?WT.mc_id=aiml-13155-ayyonet)
@@ -84,8 +87,8 @@ To run the demo, follow these steps:
 -   [Azure Cognitive Search .NET Samples](https://github.com/Azure-Samples/azure-search-dotnet-samples?WT.mc_id=aiml-13155-ayyonet)
 -   [Azure Cognitive Search client library for .NET: Creating an Index](https://github.com/Azure/azure-sdk-for-net/tree/master/sdk/search/Azure.Search.Documents?WT.mc_id=aiml-13155-ayyonet#creating-an-index)
 
-
 ### Azure Storage
 
 -   [Azure Storage Documentation](https://docs.microsoft.com/azure/storage/?WT.mc_id=aiml-13155-ayyonet)
+-   [Azure Managed Databases Overview](https://azure.microsoft.com/solutions/databases/?WT.mc_id=aiml-13155-ayyonet)
 -   [Store Application Data with Azure Storage](https://docs.microsoft.com/learn/modules/store-app-data-with-azure-blob-storage/?WT.mc_id=aiml-13155-ayyonet)
