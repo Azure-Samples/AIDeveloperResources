@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-[![Intelligent Travel Journal App](./Assets/Images/IntelligentTravelJournal.jpg)
+[![Intelligent Travel Journal App](../Assets/Images/intelligentTravelJournal.jpg)
 
 ### Prerequisites
 
