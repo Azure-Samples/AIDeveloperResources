@@ -6,7 +6,10 @@ AI Developer Resources is a collection of code samples and resource links.
 
 You can find the following code samples on the links below. Check out the demo folder Readme file for more instructions on how to setup the projects and related documentation links.
 
--   [AI Blog Intelligent Travel Journey](./AIBlog-IntelligentTravelJournal)
+-   [AI Blog Intelligent Travel Journey](./AIBlog-IntelligentTravelJournal) demo for blog post [aka.ms/onyourtermsblog2](https://techcommunity.microsoft.com/t5/azure-ai/how-to-build-an-intelligent-travel-journal-using-azure-ai/ba-p/2095168?WT.mc_id=aiml-13155-ayyonet).
+
+![Intelligent Travel Journal App](./Assets/Images/intelligentTravelJournal.jpg)
+
 <!-- -   Feature 2
 -   ... -->
 
@@ -27,6 +30,7 @@ You can find the following code samples on the links below. Check out the demo f
 -   npm install [package name]
 -   mvn install
 -   ...
+
 
 ### Quickstart
 
@@ -61,16 +65,11 @@ To run the demo, follow these steps:
 -   [Speech SDK Samples](https://github.com/Azure-Samples/cognitive-services-speech-sdk?WT.mc_id=aiml-13155-ayyonet)
 -   [Batch client code sample](https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/samples/batch/csharp/batchclient?WT.mc_id=aiml-13155-ayyonet)
 -   [Speech Recognizer API](https://docs.microsoft.com/dotnet/api/microsoft.cognitiveservices.speech.speechrecognizer?view=azure-dotnet&WT.mc_id=aiml-13155-ayyonet)
-    https://docs.microsoft.com/en-us/dotnet/api/microsoft.cognitiveservices.speech.speechrecognizer?view=azure-dotnet
 -   [Speech translation code sample](https://github.com/Azure-Samples/cognitive-services-speech-sdk/blob/master/quickstart/csharp/dotnet/translate-speech-to-text/helloworld/Program.cs?WT.mc_id=aiml-13155-ayyonet)
 
 ### Computer Vision
 
-<<<<<<< HEAD
 -   [Computer Vision Documentation](https://docs.microsoft.com/azure/cognitive-services/computer-vision/?WT.mc_id=aiml-13155-ayyonet)
-=======
--  [Computer Vision Documentation](https://docs.microsoft.com/azure/cognitive-services/computer-vision/?WT.mc_id=aiml-13155-ayyonet)
->>>>>>> 14c5e976978b8fafff35cd2dd8787e8e2eb6aab7
 -   [Add metadata to image blobs](https://docs.microsoft.com/azure/cognitive-services/computer-vision/tutorials/storage-lab-tutorial?WT.mc_id=aiml-13155-ayyonet)
 -   [Computer Vision Documentation](https://docs.microsoft.com/azure/cognitive-services/computer-vision/?WT.mc_id=aiml-13155-ayyonet)
 -   [Quickstart: Use Computer Vision Client LIbrary](https://docs.microsoft.com/azure/cognitive-services/computer-vision/quickstarts-sdk/client-library?tabs=visual-studio&pivots=programming-language-csharp&WT.mc_id=aiml-13155-ayyonet)
@@ -90,8 +89,5 @@ To run the demo, follow these steps:
 ### Azure Storage
 
 -   [Azure Storage Documentation](https://docs.microsoft.com/azure/storage/?WT.mc_id=aiml-13155-ayyonet)
-<<<<<<< HEAD
 -   [Azure Managed Databases Overview](https://azure.microsoft.com/solutions/databases/?WT.mc_id=aiml-13155-ayyonet)
-=======
->>>>>>> 14c5e976978b8fafff35cd2dd8787e8e2eb6aab7
 -   [Store Application Data with Azure Storage](https://docs.microsoft.com/learn/modules/store-app-data-with-azure-blob-storage/?WT.mc_id=aiml-13155-ayyonet)
