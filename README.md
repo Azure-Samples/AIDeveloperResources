@@ -5,7 +5,8 @@ AI Developer Resources is a collection of code samples and resource links.
 - Start Azure AI for Free: [aka.ms/StartFreeAzureAI](https://azure.microsoft.com/overview/ai-platform/?WT.mc_id=aiml-13115-ayyonet)
 - Azure Artificial Intelligence and Machine Learning Documentations: [aka.ms/azure-ai-ml-docs](https://docs.microsoft.com/en-us/azure/?product=ai-machine-learning&WT.mc_id=aiml-131155-ayyonet)
 - Azure AI Platform Overview: [aka.ms/AzureAIPlatform](https://azure.microsoft.com/overview/ai-platform/?WT.mc_id=aiml-13115-ayyonet)
-- [aka.ms/AI4Devs](https://azure.microsoft.com/en-us/overview/ai-platform/dev-resources/?WT.mc_id=aiml-13115-ayyonet)
+- Azure Artificial Intelligence for Developers Resources: [aka.ms/AI4Devs](https://azure.microsoft.com/en-us/overview/ai-platform/dev-resources/?WT.mc_id=aiml-13115-ayyonet)
+- Azure Machine Learning for Data Scientists Resources: [aka.ms/ML4DataScientists](https://azure.microsoft.com/overview/ai-platform/data-scientist-resources/?WT.mc_id=aiml-13115-ayyonet)
 
 ## Code Samples
 
