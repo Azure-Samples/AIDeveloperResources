@@ -8,6 +8,7 @@ AI Developer Resources is a collection of code samples and resource links.
 - Azure Artificial Intelligence for Developers Resources: [aka.ms/AI4Devs](https://azure.microsoft.com/en-us/overview/ai-platform/dev-resources/?WT.mc_id=aiml-13115-ayyonet)
 - Azure Machine Learning for Data Scientists Resources: [aka.ms/ML4DataScientists](https://azure.microsoft.com/overview/ai-platform/data-scientist-resources/?WT.mc_id=aiml-13115-ayyonet)
 - AI Essentials Videos: [aka.ms/AIEssentials/Videos](https://azure.microsoft.com/overview/ai-platform/dev-resources/?OCID=AID3028733&WT.mc_id=aiml-13115-ayyonet#videos)
+- Cognitive Services Containers Documentation: [aka.ms/CognitiveServicesContainerSupport](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-container-support?WT.mc_id=aiml-13115-ayyonet)
 
 [![AI Essentials Videos](http://img.youtube.com/vi/qJGRd34Hnl0/0.jpg)](https://youtube.com/playlist?list=PLLasX02E8BPBkMW8mAyNcRxk4e3l-l_p0)
 
