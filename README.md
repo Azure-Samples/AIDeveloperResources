@@ -55,7 +55,7 @@ You can find the following code samples on the links below. Check out the demo f
 1. git clone [repository clone url]
 2. cd [respository name]
 3. ...
-
+-->
 
 ## Cognitive Services Resources
 
