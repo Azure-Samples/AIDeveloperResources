@@ -10,9 +10,9 @@ Intelligent Travel Journey mobile app demo for blog post [aka.ms/onyourtermsblog
 
 To run this code, you will need:
 
--   [Azure Subscription](https://azure.microsoft.com/services/cognitive-services/?WT.mc_id=aiml-131555-ayyonet) to access [Azure Cognitive Services](https://docs.microsoft.com/azure/cognitive-services/?WT.mc_id=aiml1315555-ayyonet). If you don't have one, you can sign up for [Free Azure Credit](https://azure.microsoft.com/free/cognitive-services/?WT.mc_id=aim13155155-ayyonet).
--   [Visual Studio 2019+](https://visualstudio.microsoft.com/downloads/?WT.mc_id=aiml-131555-ayyonet).
--   [.NET Core 3.1 or above (for FotoFly)](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro?WT.mc_id=aiml-131555-ayyonet).
+-   [Azure Subscription](https://azure.microsoft.com/services/cognitive-services/?WT.mc_id=aiml-13115-ayyonet) to access [Azure Cognitive Services](https://docs.microsoft.com/azure/cognitive-services/?WT.mc_id=aiml-13115-ayyonet). If you don't have one, you can sign up for [Free Azure Credit](https://azure.microsoft.com/free/cognitive-services/?WT.mc_id=aiml-13115-ayyonet).
+-   [Visual Studio 2019+](https://visualstudio.microsoft.com/downloads/?WT.mc_id=aiml-13115-ayyonet).
+-   [.NET Core 3.1 or above (for FotoFly)](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro?WT.mc_id=aiml-13115-ayyonet).
 
 ## Quickstart
 
@@ -55,8 +55,8 @@ Storing the groupname and subscriptionId info so its useful in cleanup, as neede
    its Key and endpoint to CognitiveKey, and CognitiveEndpoint settngs under SearchConfigSettings
 
 10. Create a new resource "Azure Storage Account", and update
-    Name, Key and [ConnectionString](https://docs.microsoft.com/azure/storage/common/storage-configure-connection-string?WT.mc_id=aiml-13155-ayyonet#configure-a-connection-string-for-an-azure-storage-account) set to Name, Key, ConnectionString settings respectively under
-    AzureStorageAccount section. Learn more about [Creating a connection string](https://docs.microsoft.com/azure/storage/common/storage-configure-connection-string?WT.mc_id=aiml-13155-ayyonet#configure-a-connection-string-for-an-azure-storage-account).
+    Name, Key and [ConnectionString](https://docs.microsoft.com/azure/storage/common/storage-configure-connection-string?WT.mc_id=aiml-13115-ayyonet#configure-a-connection-string-for-an-azure-storage-account) set to Name, Key, ConnectionString settings respectively under
+    AzureStorageAccount section. Learn more about [Creating a connection string](https://docs.microsoft.com/azure/storage/common/storage-configure-connection-string?WT.mc_id=aiml-13115-ayyonet#configure-a-connection-string-for-an-azure-storage-account).
 
 11. Refer to [Publish a .NET console application using Visual Studio tutorial](https://docs.microsoft.com/dotnet/core/tutorials/publishing-with-visual-studio?WT.mc_id=aiml-131555-ayyonet) for detailed guidance on how to publish a console app.
 
@@ -103,4 +103,4 @@ Storing the groupname and subscriptionId info so its useful in cleanup, as neede
 ### Other resources
 
 -   [Dowload FotoFly link (.zip file)](http://www.java2s.com/Open-Source/CSharp_Free_Code/Windows_Presentation_Foundation_Library/Download_Fotofly_Photo_Metadata_Library.htm) is at the end of the page.
--   [Publish a .NET console application using Visual Studio tutorial](https://docs.microsoft.com/dotnet/core/tutorials/publishing-with-visual-studio?WT.mc_id=aiml-13155-ayyonet)
+-   [Publish a .NET console application using Visual Studio tutorial](https://docs.microsoft.com/dotnet/core/tutorials/publishing-with-visual-studio?WT.mc_id=aiml-13115-ayyonet)
