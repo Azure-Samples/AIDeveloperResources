@@ -16,11 +16,17 @@ AI Developer Resources is a collection of code samples and resource links.
 
 You can find the following code samples on the links below. Check out the demo folder Readme file for more instructions on how to setup the projects and related documentation links.
 
--   [AI Blog Intelligent Travel Journey](./AIBlog-IntelligentTravelJournal) demo for blog post [aka.ms/onyourtermsblog2](https://techcommunity.microsoft.com/t5/azure-ai/how-to-build-an-intelligent-travel-journal-using-azure-ai/ba-p/2095168?WT.mc_id=aiml-13115-ayyonet).
+-   [AI Blog Intelligent Travel Journey](./AIBlog-IntelligentTravelJournal) demo for blog post [aka.ms/onyourtermsblog2](https://techcommunity.microsoft.com/t5/azure-ai/how-to-build-an-intelligent-travel-journal-using-azure-ai/ba-p/2095168?WT.mc_id=aiml-13155-ayyonet).
 
 ![Intelligent Travel Journal App](./Assets/Images/intelligentTravelJournal.jpg)
 
+- [JavaScript end-to-end client file upload to Azure Storage Blobs](https://github.com/Azure-Samples/js-e2e-browser-file-upload-storage-blob?WT.mc_id=aiml-13155-ayyonet)
+- [The JFK Files](https://github.com/microsoft/AzureSearch_JFK_Files?WT.mc_id=aiml-13155-ayyonet): Search, Vision, Functions, Blob Storage
+
 <!-- -   Feature 2
+- [](?WT.mc_id=aiml-13155-ayyonet)
+- [](?WT.mc_id=aiml-13155-ayyonet)
+- [](?WT.mc_id=aiml-13155-ayyonet)
 -   ... -->
 
 <!-- ## Getting Started
@@ -50,17 +56,6 @@ You can find the following code samples on the links below. Check out the demo f
 2. cd [respository name]
 3. ...
 
-## Demo
-
-A demo app is included to show how to use the project.
-
-To run the demo, follow these steps:
-
-(Add steps to start up the demo)
-
-1.
-2.
-3. -->
 
 ## Cognitive Services Resources
 
