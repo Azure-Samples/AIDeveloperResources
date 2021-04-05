@@ -10,7 +10,14 @@ You can find the following code samples on the links below. Check out the demo f
 
 ![Intelligent Travel Journal App](./Assets/Images/intelligentTravelJournal.jpg)
 
+- [JavaScript end-to-end client file upload to Azure Storage Blobs](https://github.com/Azure-Samples/js-e2e-browser-file-upload-storage-blob?WT.mc_id=aiml-13155-ayyonet)
+- [The JFK Files](https://github.com/microsoft/AzureSearch_JFK_Files?WT.mc_id=aiml-13155-ayyonet): Search, Vision, Functions, Blob Storage
+
+
 <!-- -   Feature 2
+- [](?WT.mc_id=aiml-13155-ayyonet)
+- [](?WT.mc_id=aiml-13155-ayyonet)
+- [](?WT.mc_id=aiml-13155-ayyonet)
 -   ... -->
 
 <!-- ## Getting Started
